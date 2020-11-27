@@ -12,7 +12,7 @@ typedef struct{
  
 int main()
 {
-    int i, n=1;
+    int i, n=20;
  
     Employee employees[n];
  
